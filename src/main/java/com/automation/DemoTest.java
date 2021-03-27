@@ -9,5 +9,6 @@ public class DemoTest {
 		newFeatureName = "conflicting line";
 		System.out.println("From chirag");
 		System.out.println("2nd scenario example");
+		System.out.println("haahah let's have conflict");
 	}
 }
