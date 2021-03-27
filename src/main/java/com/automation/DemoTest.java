@@ -6,5 +6,6 @@ public class DemoTest {
 		System.out.println("mehmets commit");
 		String newFeatureName;
 		newFeatureName = "we're good";
+		newFeatureName = "conflicting line";
 	}
 }
