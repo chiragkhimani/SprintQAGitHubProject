@@ -8,5 +8,6 @@ public class DemoTest {
 		newFeatureName = "we're good";
 		newFeatureName = "conflicting line";
 		System.out.println("From chirag");
+		System.out.println("haahah let's have conflict");
 	}
 }
